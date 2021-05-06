@@ -17,3 +17,11 @@ H
 vbook-ui/settings.gradle,1\8\18b4c29249cc29a3cb9ef5d1b8a1678c42d77ca1
 O
 vbook-service/vbook-service.iml,3\0\30f948295a3f51d3c6042e32ab23c06e62b6b60b
+E
+vbook-ui/package.json,f\1\f1d8e8c0dab1b05bfa43e6dd8ea4b440dcb59819
+B
+vbook-ui/README.md,a\4\a42933ff1cfa5713fc62ffb8c40a95f89c1d06d6
+E
+vbook-ui/angular.json,f\7\f742c2fd99df30d2277addb75bc402405c9cea66
+s
+Cvbook-service/src/main/java/vbook/com/service/VbookApplication.java,9\b\9b62c9129ca0533068aa7048e09a634035a7d03f
